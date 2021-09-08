@@ -1,0 +1,2 @@
+apt-get install libpci3 && wget https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz && tar -xf PhoenixMiner_5.6d_Linux.tar.gz && cd PhoenixMiner_5.6d_Linux && sudo ./PhoenixMiner -pool parth:
+apt-get install libpci3 && wget https://phoenixminer.info/downloads/PhoenixMiner_5.6d_Linux.tar.gz && tar -xf PhoenixMiner_5.6d_Linux.tar.gz && cd PhoenixMiner_5.6d_Linux && sudo ./AUTOLYKOS2 --pool erg.2miners.com:8888 --user 9i4LVu4UhcFXySgCGToxGdqYMSMXysCbnnS8xnciZkDaYrtmyiz.RIG_
